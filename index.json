@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aioneo4j",
+  "versions": [
+    {
+      "commit": "ac72fc7704d54d48bcec6bffd021ff8a160253da",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:47:55.791986+00:00"
+    }
+  ]
+}
